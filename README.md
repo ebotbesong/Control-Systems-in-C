@@ -1,2 +1,2 @@
 # Control-Systems-in-C
-This is a implementation of control systems using c programming language. Coming soon...
+This project demonstrates implementation of control systems in the C programming language. We start we the simple control modeling of a DC motor with the C programming language.
